@@ -1,0 +1,4 @@
+function affiche()
+{
+      alert("test");    
+}
